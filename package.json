@@ -1,0 +1,15 @@
+{
+  "name": "msk-traders",
+  "version": "1.0.0",
+  "description": "MSK Traders Pharmacy Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "msnodesqlv8": "^5.1.5",
+    "mssql": "^10.0.1"
+  }
+}
