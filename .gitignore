@@ -1,0 +1,4 @@
+node_modules/
+fix-password.js
+*.sql
+*.env
